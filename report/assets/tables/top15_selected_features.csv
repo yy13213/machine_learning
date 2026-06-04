@@ -1,0 +1,16 @@
+排名,特征
+1,Current_Phase_Average
+2,Radiation_Global_Tilted
+3,load_lag_1
+4,Radiation_Global_Tilted_lag_1
+5,Global_Horizontal_Radiation
+6,load_roll_mean_4
+7,load_roll_max_4
+8,Global_Horizontal_Radiation_lag_1
+9,Radiation_Global_Tilted_roll_mean_4
+10,load_lag_96
+11,Global_Horizontal_Radiation_roll_mean_4
+12,Radiation_Global_Tilted_lag_96
+13,load_lag_192
+14,load_lag_4
+15,Global_Horizontal_Radiation_lag_96

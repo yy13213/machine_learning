@@ -1,0 +1,15 @@
+字段,缺失值个数,非空占比(%)
+time,0,100.0
+Wind_Speed,0,100.0
+Weather_Temperature_Celsius,0,100.0
+Weather_Relative_Humidity,0,100.0
+Global_Horizontal_Radiation,0,100.0
+Diffuse_Horizontal_Radiation,0,100.0
+Wind_Direction,0,100.0
+Weather_Daily_Rainfall,0,100.0
+Radiation_Global_Tilted,0,100.0
+Radiation_Diffuse_Tilted,0,100.0
+Active_Energy_Delivered_Received,0,100.0
+Current_Phase_Average,0,100.0
+Performance_Ratio,0,100.0
+load,0,100.0

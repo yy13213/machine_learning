@@ -1,0 +1,9 @@
+model,memory_length,curve_time,aligned_test_split,max_windows,top_k_features
+RandomForest,96,2021-09-22 00:00:00,True,5000,all
+RandomForest,192,2021-11-25 00:00:00,True,5000,all
+XGBoost,96,2021-09-22 00:00:00,True,5000,all
+XGBoost,192,2021-11-25 00:00:00,True,5000,all
+LSTM,96,2021-09-22 00:00:00,True,5000,all
+LSTM,192,2021-11-25 00:00:00,True,5000,all
+Transformer,96,2021-09-22 00:00:00,True,5000,all
+Transformer,192,2021-11-25 00:00:00,True,5000,all
